@@ -1,2 +1,2 @@
 # tableau_demo
-This repo contains demo videos about Tableau I present in AACUW and DubsTech Datathon 2020
+This [video](https://drive.google.com/file/d/1i9XbIYUkXo3VX7qmHYYGZDAUHmcQG16h/view?usp=sharing) is a Tableau demo I present in AACUW and DubsTech Datathon 2020.
